@@ -1,0 +1,61 @@
+Supervised Learning: Model learns from labeled data to make predictions or classifications.
+Unsupervised Learning: Model finds patterns or structure in unlabeled data.
+Reinforcement Learning: Agents learn to take actions in environments to maximize cumulative reward.
+Transfer Learning: Leveraging pre-trained models for related problems to improve learning efficiency.
+Semi-supervised Learning: Combines small amounts of labeled data with large amounts of unlabeled data.
+Online Learning: Model learns continuously as new data arrives, suitable for data streams.
+Batch Learning: Model trains on the entire dataset at once for each update.
+Feature Engineering: Creating or transforming input features to better represent the underlying problem.
+Model Selection: Choosing the best model or algorithm based on performance metrics.
+Hyperparameter Tuning: Systematic optimization of model parameters set prior to training.
+Regularization: Techniques to prevent model overfitting by penalizing model complexity.
+Bias-Variance Tradeoff: The balance between model simplicity (bias) and its ability to capture data complexity (variance).
+Cross-validation: Assessing model performance on multiple subsets of data to ensure generalizability.
+Overfitting: When the model learns noise instead of signal; performs poorly on unseen data.
+Underfitting: When the model is too simplistic to capture data patterns, leading to low accuracy.
+Gradient Descent: Optimization algorithm for minimizing loss functions in ML models.
+Activation Functions: Non-linear transformations applied to neurons in neural networks.
+Loss Functions: Quantify model prediction errors and guide learning.
+Backpropagation: Algorithm for updating neural network weights by computing gradient of the loss.
+Dimensionality Reduction: Reducing the number of input features while retaining as much variance as possible.
+Data Augmentation: Creating new training samples by modifying existing data to improve model robustness.
+Explainable AI (XAI): Methods that help interpret how AI models make decisions.
+Fairness in AI: Ensuring AI systems do not propagate bias or discrimination.
+Model Interpretability: The degree to which a human can understand how a model makes decisions.
+Deployment and Serving: Making trained models available for real-time or batch use in production.
+Model Monitoring: Continuously tracking model performance and health in production.
+Drift Detection: Identifying when input data or target variable distribution changes, affecting model performance.
+MLOps: Practices that combine machine learning, DevOps, and data engineering for scalable AI deployments.
+Data Preprocessing: Cleaning, scaling, transforming raw data for analysis or modeling.
+Embeddings: Dense vector representations of data such as words or images for machine learning.
+Tokenization: Splitting text into smaller units (words, subwords) for processing in NLP.
+Attention Mechanism: Model focuses on specific parts of inputs when making decisions.
+Self-attention: Form of attention where elements of a sequence attend to other elements.
+Sequence Modeling: Predicting or generating sequential data such as text or time series.
+Object Detection: Identifying and localizing objects within image or video data.
+Image Segmentation: Classifying each pixel of an image into classes or regions.
+Natural Language Processing (NLP): Enabling machines to understand and generate human language.
+Speech Recognition: Transcribing spoken language into text using AI models.
+Recommendation System: Suggesting items, products, or information based on user behavior.
+Ensemble Learning: Combining multiple models to improve prediction performance.
+Clustering: Grouping similar data points together based on features.
+Regression: Predicting continuous values from input data.
+Classification: Assigning inputs to categories or classes.
+Time Series Forecasting: Predicting future values based on past sequential data.
+Anomaly Detection: Identifying rare or unusual patterns that do not fit existing data.
+Computer Vision: Enabling computers to interpret and process visual information.
+Synthetic Data: Artificially generated data that reflects the properties of real data.
+Zero-shot Learning: Model’s ability to generalize to unseen classes or tasks.
+Few-shot Learning: Model learns effectively from very few examples.
+Continual Learning: Models learn continuously from new data without forgetting previous knowledge.
+Active Learning: Models request labels for uncertain instances to improve quickly.
+Human-in-the-Loop AI: Involves human oversight in the AI decision-making process.
+Federated Learning: Privacy-preserving training on decentralized data across multiple devices.
+Privacy Preserving ML: Techniques (e.g., differential privacy) for safeguarding sensitive information in ML applications.
+Prompt Engineering: Crafting effective prompts to steer responses from large language models.
+Retrieval-Augmented Generation (RAG): Combines retrieval from external knowledge with generative models for more accurate answers.
+Meta-learning: “Learning to learn,” allowing models to adapt quickly to new tasks.
+Sim2Real Transfer: Transferring models trained in simulation to real-world applications.
+Knowledge Distillation: Compressing knowledge from a large model into a smaller, efficient one.
+Transferability: The extent to which a model or feature representation generalizes to new tasks.
+Domain Adaptation: Adapting models trained in one context to perform well in another.

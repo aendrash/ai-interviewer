@@ -1,0 +1,25 @@
+Probability: Study of random events, quantifying the likelihood of outcomes.
+Random Variable: A variable representing a numerical outcome of a probabilistic event.
+Mean: The average value in a dataset.
+Median: The middle value when data points are arranged in order.
+Mode: The value that occurs most frequently in a dataset.
+Variance: Measure of how data points spread around the mean.
+Standard Deviation: The square root of variance, indicating spread of data.
+Covariance: How two variables change together.
+Correlation: Standardized measure of how two variables move in relation to each other.
+Linear Algebra: Study of vectors, matrices, and linear transformations; foundation of many ML algorithms.
+Matrix Multiplication: Combining matrices in a way that preserves linear relationships.
+Eigenvectors and Eigenvalues: Indicate direction and magnitude of important features in transforms.
+Dot Product: Scalar result from multiplying and summing entries of two vectors, core to many ML computations.
+Calculus: Study of change, including derivatives and integrals; used to optimize model parameters.
+Gradient: The vector of partial derivatives, telling direction of steepest ascent/descent.
+Optimization: Process of finding the best solution (e.g., minimum error) for a problem.
+Cost Function: Mathematical function quantifying error to be minimized during training.
+Maximum Likelihood Estimation: Method of estimating parameters that maximize observed data likelihood.
+Statistical Inference: Drawing conclusions about populations from sample data.
+Bayes’ Theorem: Describes how to update probabilities based on new evidence.
+Hypothesis Testing: Determining if a result is statistically significant or due to chance.
+p-value: Probability of observing data as extreme as what was observed, assuming null hypothesis is true.
+Confidence Interval: Range of values likely to contain the true parameter with a specified probability.
+Central Limit Theorem: States that sample means approach a normal distribution as the sample size grows.
+Sample vs. Population: A sample is a subset of data; the population is the entire group of interest.

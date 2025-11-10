@@ -1,0 +1,20 @@
+Tokenization: Breaking text into meaningful units like words, sentences, or subwords.
+Stemming: Reducing words to their base or root form, often by chopping off suffixes.
+Lemmatization: Reducing words to their base form using vocabulary and grammatical analysis.
+Word Embeddings: Mapping words to dense vectors that encode semantic relationships.
+Bag-of-Words Model: Represents text as the frequency of each word in a vocabulary, disregarding grammar.
+TF-IDF (Term Frequency–Inverse Document Frequency): Weighs a word's frequency, dampened by how rare the word is across documents.
+Named Entity Recognition (NER): Identifying entities such as people, places, or organizations in a text.
+Part-of-Speech Tagging: Assigning grammatical categories (noun, verb, adjective) to words in a sentence.
+Language Modeling: Assigning probabilities to sequences of words (sentences or phrases).
+Sequence-to-Sequence Learning: Mapping input sequences to output sequences, used in translation and summarization.
+Attention Mechanism: Focusing the model on relevant elements or words in a sentence.
+Transformer: Uses self-attention to process language, leading to state-of-the-art NLP models.
+Text Classification: Assigning predefined categories to entire text samples.
+Sentiment Analysis: Determining the attitude or emotion expressed in a text.
+Machine Translation: Automatically translating text from one language to another.
+Speech-to-Text: Converting spoken language into written text using AI models.
+Text Generation: Producing new, coherent text given an initial input prompt.
+Contextual Embeddings: Vectors representing words in context, capturing different meanings for the same word.
+Coreference Resolution: Determining when two words refer to the same entity in text.
+Conversational AI: Building systems that can carry on a natural dialogue with users.

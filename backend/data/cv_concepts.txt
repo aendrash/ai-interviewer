@@ -1,0 +1,19 @@
+Image Classification: Assigning an entire image to a single category or label.
+Object Detection: Identifying and localizing multiple objects in an image with bounding boxes.
+Semantic Segmentation: Classifying each pixel of an image into a defined class.
+Instance Segmentation: Detecting distinct object instances and segmenting their shapes in images.
+Edge Detection: Identifying boundaries within images using filters or gradients.
+Feature Extraction: Capturing important information (edges, textures) from images for later use in models.
+Image Augmentation: Applying transformations (rotation, flipping, scaling) to generate more data from existing images.
+Convolution Operation: Applying filters over image matrices to detect features like edges or textures.
+Pooling: Downsampling feature maps to reduce dimensionality and computational load.
+Transfer Learning: Using pre-trained image models (like ResNet or VGG) on new vision tasks to save resources.
+Non-Maximum Suppression: Elimination of redundant or overlapping detections to keep only the most relevant boxes.
+Anchor Boxes: Reference boxes for object detection at different scales and aspect ratios.
+IoU (Intersection over Union): Metric for evaluating the overlap between predicted and true bounding boxes.
+Histogram of Oriented Gradients (HOG): Feature descriptor capturing gradient orientation for object recognition.
+Optical Flow: Estimating motion of objects or regions between video frames.
+Facial Recognition: Using models to identify or verify faces in images.
+Saliency Detection: Identifying visually significant regions in an image.
+Image Denoising: Removing noise from images using filters or learning-based methods.
+Color Space Conversion: Transforming images between color models (RGB, HSV, etc.) for processing.

@@ -1,0 +1,20 @@
+Supervised Learning: Training models with labeled data to predict outcomes.
+Unsupervised Learning: Finding structure or patterns in data without explicit labels.
+Regression: Predicting continuous target values from input data.
+Classification: Assigning input data into discrete categories or labels.
+Clustering: Grouping similar data points together based on feature similarity.
+Feature Engineering: Creating or transforming input variables to improve model performance.
+Overfitting: When a model learns noise from training data and performs poorly on new data.
+Underfitting: When a model is too simple to capture underlying data patterns and gives low accuracy.
+Cross-validation: Assessing model generalization by evaluating on multiple data subsets.
+Loss Function: Quantitative measure of prediction error used to guide model training.
+Bias-Variance Tradeoff: Balancing model complexity to avoid both underfitting and overfitting.
+Hyperparameters: Settings chosen before training that affect model behavior, such as learning rate or tree depth.
+Regularization: Techniques to discourage model complexity and reduce overfitting.
+Metric Evaluation: Using performance measures (like accuracy, precision) to judge model effectiveness.
+Training-Validation-Test Split: Separating data into distinct sets for building, tuning, and evaluating models.
+Batch Learning: Training on the entire dataset at once in discrete steps.
+Online Learning: Incrementally updating the model as new data arrives.
+Data Preprocessing: Steps such as scaling, encoding, and cleaning to prepare data for modeling.
+Label Encoding: Representing categorical data as numeric labels.
+One-Hot Encoding: Representing categorical variables as binary vectors for use in models.

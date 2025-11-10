@@ -1,0 +1,43 @@
+Feedforward Neural Network: Basic neural network where information only moves forward from input to output layer.
+Convolutional Neural Network (CNN): Specialized for processing grid-like data, such as images, using convolutional layers.
+Residual Networks (ResNet): Deep CNNs using skip connections to prevent vanishing gradients.
+Inception Networks (GoogLeNet): Deep networks with parallel convolutions of different sizes for efficient feature extraction.
+DenseNet: Connects each layer to every other layer in a feedforward fashion, improving information flow.
+VGGNet: Deep CNN with small (3x3) filters and uniform architecture, known for simplicity and depth.
+Recurrent Neural Network (RNN): Processes sequential data by maintaining a hidden state across time steps.
+Long Short-Term Memory (LSTM): RNN variant that solves vanishing gradient problem using special memory cells.
+Gated Recurrent Units (GRU): Like LSTM but with fewer gates, making it faster and simpler.
+Bidirectional RNN/LSTM: Runs sequence data in both forward and backward directions for greater context.
+Attention Mechanism: Lets models focus on specific input parts, improving sequence-to-sequence tasks.
+Transformers: Model using self-attention for parallel processing of sequences, foundational to modern NLP.
+Encoder-Decoder Architectures: Separates input encoding from output decoding, common in translation and summarization.
+Sequence-to-Sequence Model: Maps input sequences to output sequences, used in tasks like translation.
+Generative Adversarial Networks (GAN): Consist of generator and discriminator and used for realistic data generation.
+Conditional GAN: GANs that generate data conditioned on specific input labels or variables.
+CycleGAN: GANs capable of unpaired image-to-image translation tasks.
+Variational Autoencoder (VAE): Combines autoencoding with probabilistic latent variable modeling for generative tasks.
+Autoencoder: Learns efficient data codings in an unsupervised manner, used for dimensionality reduction and denoising.
+Capsule Networks: Preserve hierarchical pose relationships in image data using capsule units.
+Spatial Transformer Networks: Allow networks to learn spatial transformations for improved invariance.
+Neural Style Transfer: Combines content of one image with style of another using deep networks.
+Self-attention Networks: Allow elements of a sequence to attend to each other, core part of transformers.
+Multi-head Attention: Runs multiple self-attention mechanisms in parallel to jointly attend to information from different representation spaces.
+Pointer Networks: Output indices (pointers) of input elements rather than labels, useful for sorting or selection tasks.
+Graph Neural Networks (GNN): Neural architectures designed to process graph-structured data.
+Graph Convolution Networks (GCN): Extends convolution operation to graph data.
+Siamese Network: Two or more subnetworks sharing weights, often for similarity or verification tasks.
+BERT: Bidirectional transformer model pre-trained for language understanding and used for many NLP tasks.
+GPT (OpenAI): Generative Pre-trained Transformer models, generating text and powering conversational AI.
+Vision Transformer (ViT): Applies transformer architecture to image patches, outperforming many CNNs on vision tasks.
+Swin Transformer: Transformer-based vision models using shifted windowing approach for computational efficiency.
+Wide & Deep Networks: Combine wide linear models and deep neural nets for recommendation tasks.
+WaveNet: Deep generative model for raw audio waveform generation.
+U-Net: Encoder-decoder architecture with skip connections for biomedical image segmentation.
+YOLO (You Only Look Once): Real-time object detection model processing the entire image in a single forward pass.
+RCNN/Faster RCNN: Object detection models using regions of interest and deep CNNs.
+Mask RCNN: Extends Faster RCNN to perform object instance segmentation.
+Deep Q-Networks (DQN): Reinforcement learning algorithm using deep networks to approximate Q-values for actions.
+AlphaGo/AlphaZero: Deep RL algorithms using tree search and neural networks for game playing.
+Neural Turing Machines: Neural networks with external memory, enabling algorithmic reasoning.
+Deep Reinforcement Learning: RL using deep networks to solve tasks with high-dimensional inputs.
+Monte Carlo Tree Search (in DL context): Planning algorithm complemented by deep learning for long-term reasoning.

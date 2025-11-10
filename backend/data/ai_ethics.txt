@@ -1,0 +1,15 @@
+Fairness: Ensuring AI systems treat all individuals and groups equitably without bias.
+Transparency: Making AI models and decisions understandable and explainable to users.
+Accountability: Holding organizations and developers responsible for AI outcomes and misuse.
+Privacy: Protecting individuals' personal and sensitive data used by AI systems.
+Explainability: Enabling humans to interpret and trust AI decisions and predictions.
+Bias Mitigation: Reducing and addressing unwanted prejudices embedded in training data or algorithms.
+Safety: Guaranteeing AI behaviors do not cause harm to users or society.
+Robustness: Ensuring AI systems function reliably under a variety of circumstances, including adversarial attacks.
+Human Oversight: Involving human judgment and control alongside AI decision-making.
+Ethical Data Sourcing: Collecting and using data in compliance with moral, legal, and social standards.
+Social Impact: Assessing how AI systems affect jobs, society, and democracy.
+Autonomy: Balancing the independence of AI agents with the need for human direction and intervention.
+Consent: Ensuring individuals are informed and agree to the use of their data in AI systems.
+Environmental Impact: Considering the energy and resource usage of training and deploying large AI systems.
+Regulation: Developing and following frameworks and laws governing AI use and development.

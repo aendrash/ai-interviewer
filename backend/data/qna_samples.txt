@@ -1,0 +1,114 @@
+question,answer,round,exp of candidate
+Tell me about yourself as an AI Engineer.,"I’m an AI Engineer experienced in building machine learning models and LLM-powered applications. I specialize in Python, NLP, and model deployment.",HR,0-2 years
+Why do you want to work in AI and machine learning?,"AI combines my passion for mathematics, programming, and building intelligent systems that can amplify human capabilities.",HR,0-2 years
+What’s the difference between AI, ML, and Deep Learning?,"AI is the broad field of creating intelligent systems. ML is a subset focusing on algorithms that learn from data. Deep Learning is a specialized ML area using neural networks.",Technical,0-3 years
+Explain bias-variance tradeoff.,"A high bias model underfits data, while high variance leads to overfitting. The goal is to find a balance with optimal generalization.",Technical,1-3 years
+How does gradient descent work?,"Gradient descent minimizes the loss function by iteratively adjusting model parameters in the opposite direction of the gradient.",Technical,0-3 years
+What are activation functions and why are they used?,"They introduce non-linearity, allowing neural networks to model complex patterns. Common ones include ReLU, Sigmoid, and Tanh.",Technical,0-3 years
+What are your favorite AI frameworks?,"I primarily use TensorFlow, PyTorch, and Hugging Face Transformers for model development and fine-tuning.",HR,0-2 years
+Write a Python function to reverse a linked list.,"Use two pointers, prev and curr, then iteratively reverse links until curr becomes None.",Coding,1-3 years
+How do you handle overfitting in a neural network?,"Use techniques like dropout, regularization (L1/L2), early stopping, or more data augmentation.",Technical,1-3 years
+What is the difference between classification and regression?,"Classification predicts discrete labels, while regression predicts continuous numerical values.",Technical,0-2 years
+Describe one project where you implemented an ML model end-to-end.,"I built a sentiment analysis system using BERT — covering data preprocessing, training, evaluation, and deploying via FastAPI.",Past Experience,1-3 years
+How would you design a recommendation system for an e-commerce platform?,"Combine collaborative filtering with content-based filtering; optionally use embeddings and ranking models.",System Design,2-4 years
+What is your approach to hyperparameter tuning?,"Use grid search, random search, or Bayesian optimization, depending on model complexity and available compute.",Technical,1-3 years
+Explain the steps in the ML pipeline.,"Data collection, preprocessing, feature engineering, model training, evaluation, and deployment.",Technical,0-2 years
+What is one challenge you faced in your last project and how did you solve it?,"Data imbalance was a challenge; I used SMOTE and weighted loss functions to improve model performance.",Past Experience,1-3 years
+How do you ensure a deployed model remains reliable over time?,"Monitor drift, retrain periodically with new data, and set up automated evaluation pipelines.",System Design,2-4 years
+What are embeddings in NLP?,"Numerical vector representations of text that capture semantic relationships between words or sentences.",Technical,1-3 years
+How would you explain gradient descent to a non-technical manager?,"It’s like finding the lowest point in a valley step by step, adjusting direction until the system performs optimally.",HR,0-1 years
+How do you test model accuracy and fairness?,"Use appropriate metrics like F1-score or AUC, and apply bias detection tools to identify skewed predictions.",Technical,2-4 years
+Write a function to check if a string is a palindrome.,"Compare characters from both ends moving inward until the middle is reached.",Coding,0-2 years
+What is the difference between batch and online learning?,"Batch learning trains models on the full dataset at once, while online learning updates with each new example.",Technical,2-4 years
+Explain attention mechanism in simple terms.,"It lets the model focus on relevant parts of the input when generating each output token, enhancing contextual understanding.",Technical,2-4 years
+Design an AI pipeline that uses both computer vision and NLP.,"Integrate an OCR system to extract text from images, then feed the text into an NLP classification or retrieval model.",System Design,3-5 years
+How do you handle missing data?,"Use imputation methods like mean/median substitution, or model-based techniques depending on feature importance.",Technical,0-3 years
+What’s your preferred way to deploy a model to production?,"Containerize with Docker, serve it via FastAPI or Flask, and orchestrate with Kubernetes or AWS Lambda.",System Design,2-4 years
+How do you evaluate clustering results when you have no labels?,"Use metrics like Silhouette Score, Davies–Bouldin index, or visualize clusters using PCA.",Technical,2-4 years
+What is feature selection and why is it important?,"It reduces dimensionality, improves model performance, and helps avoid overfitting.",Technical,0-3 years
+Give an example of applying transfer learning.,"Fine-tuning a pre-trained ResNet on a custom medical image dataset for disease detection.",Past Experience,1-4 years
+What is reinforcement learning?,"Learning through trial and error by interacting with the environment to maximize cumulative rewards.",Technical,0-3 years
+What is your favorite AI project and why?,"A multi-modal chatbot I built integrating voice, text, and image processing — it taught me full-stack AI system design.",Past Experience,1-3 years
+Explain the difference between precision and recall.,"Precision measures correctness of positives; recall measures completeness of positive detection.",Technical,1-3 years
+If a model performs well on training but not on new data, what’s happening?,"It’s overfitting — the model learned noise from the training data.",Technical,0-2 years
+Explain the role of vector databases in LLM-powered systems.,"Vector DBs store embeddings for semantic search and retrieval in RAG pipelines.",System Design,2-4 years
+How would you optimize inference latency?,"Quantize or prune the model, batch predictions, use GPU/ONNX runtime, or cache frequent queries.",System Design,3-5 years
+What is PCA and why is it used?,"Principal Component Analysis reduces feature dimensions by projecting onto orthogonal axes, preserving key variance.",Technical,1-3 years
+Tell me about yourself.,"I am an AI Engineer with a strong foundation in machine learning, data analysis, and model deployment.",HR,Fresher
+Why did you choose AI as your career path?,"Because it allows me to build systems that learn and solve real-world problems autonomously.",HR,Fresher
+How do you stay up-to-date in the AI/ML field?,"By following research papers, attending AI conferences, and implementing new models from arXiv.",HR,2 years
+Describe a challenging AI project you’ve worked on.,"I developed a fraud detection model handling highly imbalanced data using ensemble methods.",Past Experience,3 years
+What are the key skills required for a successful AI Engineer?,"Strong programming, mathematics, understanding of ML algorithms, and deployment experience.",HR,1 year
+Explain supervised learning in simple terms.,"It’s when a model learns from labeled data to make predictions on unseen data.",Technical,Fresher
+What is unsupervised learning?,"It identifies hidden patterns or groupings in unlabeled data.",Technical,Fresher
+What is reinforcement learning?,"An agent learns to take actions in an environment based on rewards and penalties.",Technical,1 year
+What is the difference between classification and regression?,"Classification predicts categories; regression predicts continuous values.",Technical,Fresher
+What is cross-validation?,"A resampling method used to evaluate model performance on unseen data.",Technical,1 year
+Explain k-fold cross-validation.,"Data is split into k subsets; the model trains on k-1 and tests on the remaining one in rotation.",Technical,1 year
+What is regularization in ML?,"A technique to prevent overfitting by adding penalty terms to model complexity.",Technical,2 years
+What’s the difference between L1 and L2 regularization?,"L1 performs feature selection by shrinking coefficients to zero, L2 reduces magnitude smoothly.",Technical,2 years
+What are hyperparameters?,"Settings defined before training that control model behavior, like learning rate or tree depth.",Technical,Fresher
+What is one-hot encoding?,"A technique to convert categorical data into binary numeric form.",Technical,Fresher
+Explain label encoding.,"It assigns numeric labels to categorical variables in ascending order.",Technical,Fresher
+What is batch normalization?,"A method to normalize layer inputs to speed up and stabilize training.",Technical,1 year
+What are the types of gradient descent?,"Batch, stochastic, and mini-batch gradient descent.",Technical,1 year
+Explain what dropout does in neural networks.,"It randomly deactivates neurons during training to prevent overfitting.",Technical,2 years
+What is exploding or vanishing gradients problem?,"When gradients become too small or large during backpropagation, causing unstable training.",Technical,2 years
+What is the purpose of activation functions?,"They introduce non-linearity, enabling neural networks to learn complex relationships.",Technical,Fresher
+How does ReLU differ from Sigmoid?,"ReLU keeps positive values unchanged and zeros out negatives, while Sigmoid compresses values between 0 and 1.",Technical,Fresher
+What is a convolutional neural network used for?,"Primarily for image data processing such as classification and object detection.",Technical,1 year
+What is an RNN used for?,"Sequential data like text, speech, or time-series prediction.",Technical,1 year
+What is the function of the attention mechanism?,"It lets the model focus on relevant parts of the input for better context understanding.",Technical,2 years
+What are embeddings?,"Low-dimensional representations of categorical or word data preserving semantic meaning.",Technical,2 years
+What is the difference between bagging and boosting?,"Bagging reduces variance by training independently; boosting reduces bias via sequential corrections.",Technical,2 years
+Name some boosting algorithms.,"AdaBoost, XGBoost, LightGBM, CatBoost.",Technical,1 year
+What is a random forest?,"An ensemble of multiple decision trees that vote together for prediction.",Technical,Fresher
+Explain PCA.,"Principal Component Analysis reduces feature dimensionality by projecting onto principal components.",Technical,2 years
+When would you prefer a deep learning model over a traditional ML model?,"When data is large and features are complex or unstructured.",Technical,2 years
+What are convolution filters in image processing?,"Kernels used to detect patterns like edges or textures.",Technical,1 year
+What is transfer learning?,"Using pre-trained models on new related tasks to save training time and improve performance.",Technical,2 years
+What is fine-tuning in deep learning?,"Updating some layers of a pre-trained model to adapt it to a new dataset.",Technical,2 years
+What is NLP?,"Natural Language Processing enables machines to understand and generate human language.",Technical,Fresher
+What is tokenization in NLP?,"Splitting text into smaller units like words or subwords for analysis.",Technical,Fresher
+What is stemming?,"Reducing words to their base or root form using rule-based techniques.",Technical,Fresher
+What is lemmatization?,"Similar to stemming, but it returns meaningful root words using vocabulary and morphology.",Technical,Fresher
+What are word embeddings like Word2Vec or GloVe?,"They map words to dense vectors capturing semantic relationships.",Technical,2 years
+How does BERT differ from previous NLP models?,"It uses bidirectional transformers and pretraining to understand context from both directions.",Technical,2 years
+What is model drift?,"Gradual reduction in model performance due to changing data patterns over time.",Technical,2 years
+How can you handle model drift?,"Monitor predictions continuously, retrain periodically, or use adaptive learning.",Technical,3 years
+Describe an ML pipeline.,"A sequence of data collection, preprocessing, training, and evaluation stages.",System Design,1 year
+Design an architecture for a text classification system.,"Data preprocessing → Tokenization → Model (Transformer or LSTM) → API deployment.",System Design,2 years
+How would you serve models at scale?,"Using containerized microservices behind load balancers with GPU support.",System Design,3 years
+How can you optimize inference latency in production?,"Quantization, model pruning, batching requests, and efficient hardware deployment.",System Design,3 years
+How would you ensure data quality in your pipeline?,"Automated validation checks and anomaly detection for incoming data streams.",System Design,2 years
+What is MLOps?,"A set of practices integrating ML development, deployment, and monitoring in production.",System Design,2 years
+What tools are used for MLOps?,"MLflow, DVC, Kubeflow, Airflow, and SageMaker.",Technical,2 years
+Have you ever built a REST API for model serving?,"Yes, using FastAPI or Flask to expose model predictions as endpoints.",Past Experience,2 years
+Have you worked with GPU acceleration?,"Yes, using CUDA and cuDNN through PyTorch or TensorFlow for faster training.",Past Experience,3 years
+What’s the difference between precision and recall?,"Precision measures relevance of positive predictions, recall measures coverage of actual positives.",Technical,Fresher
+What is F1-score?,"Harmonic mean of precision and recall, useful for imbalanced datasets.",Technical,1 year
+What is ROC-AUC?,"It measures model’s ability to distinguish between classes across thresholds.",Technical,1 year
+What is an embedding layer?,"A neural network layer that maps categorical data into continuous vector space.",Technical,2 years
+Write code to reverse a string in Python.,"""def reverse(s): return s[::-1]""",Coding,Fresher
+Write code to check if a string is palindrome.,"""s == s[::-1]""",Coding,Fresher
+Write a Python function to find missing number in array 1-N.,"""def missing_num(arr, n): return n*(n+1)//2 - sum(arr)""",Coding,Fresher
+Write a script to count word frequencies in a text file.,"Using collections.Counter(open('file').read().split())",Coding,1 year
+Write code to compute Fibonacci up to N.,"""def fib(n): a,b=0,1; for _ in range(n): print(a); a,b=b,a+b""",Coding,Fresher
+Find the intersection of two lists.,"Use set(list1) & set(list2)",Coding,Fresher
+Explain time complexity of binary search.,"O(log n)",Technical,Fresher
+Explain space complexity of quicksort.,"O(log n) due to recursion stack.",Technical,Fresher
+What are hash maps used for?,"Fast key-value lookups in O(1) time.",Technical,Fresher
+Explain difference between deep copy and shallow copy.,"Shallow copies reference same objects; deep copies clone them completely.",Technical,1 year
+What libraries do you use in ML projects?,"pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Matplotlib, Hugging Face.",Technical,Fresher
+How do you handle class imbalance?,"Resampling, adjusting class weights, or anomaly-focused models.",Technical,1 year
+What metrics do you use for regression models?,"RMSE, MAE, R-squared, MAPE.",Technical,1 year
+How do you prevent data leakage?,"By ensuring data preprocessing happens separately for train and test sets.",Technical,2 years
+Tell me about your experience with feature engineering.,"Created domain-specific features that improved model accuracy and interpretability.",Past Experience,3 years
+Have you ever optimized model inference speed?,"Yes, using model quantization and ONNX conversion.",Past Experience,3 years
+What datasets have you worked with most?,"Image classification datasets like CIFAR-10, tabular datasets like Titanic and Kaggle competitions.",Past Experience,2 years
+Which cloud services have you used?,"AWS S3, Azure ML Studio, and Google Vertex AI.",Past Experience,3 years
+How do you debug model performance issues?,"By analyzing learning curves, checking data drift, and validating hyperparameters.",Past Experience,3 years
+Have you worked in team-based ML projects?,"Yes, collaborating through Git, code reviews, and CI/CD pipelines.",HR,2 years
+How do you prioritize tasks in AI projects?,"By focusing on baseline creation first, metric alignment, and iterative improvement.",HR,2 years
+Where do you see yourself in 5 years?,"Building scalable AI systems leading projects or research teams.",HR,3 years
+

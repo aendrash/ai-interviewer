@@ -1,0 +1,21 @@
+ETL (Extract, Transform, Load): Process of collecting data from multiple sources, transforming it, and loading into target storage.
+Batch Processing: Handling data in large, periodic chunks.
+Stream Processing: Processing data in real-time as it arrives.
+Data Lake: Large, unstructured repository for storing massive volumes of raw data.
+Data Warehouse: Structured storage optimized for fast querying and analysis of large datasets.
+Data Pipeline: Automated sequence of data movements and transformations from source to destination.
+Schema: Structure and organization of data, including types and relationships.
+Database Indexing: Technique for improving the speed of data retrieval operations in databases.
+SQL: Structured Query Language used for managing and querying relational databases.
+NoSQL: Non-relational database systems, optimized for scalability and flexibility.
+Data Normalization: Organizing data to reduce redundancy and improve integrity.
+Data Partitioning: Dividing data into segments for scalability and fast access.
+Data Deduplication: Removing duplicate records to ensure dataset quality.
+Data Quality: Ensuring completeness, accuracy, and consistency of data.
+Orchestration: Automating complex workflows involving multiple data processing steps or systems.
+Job Scheduling: Running data tasks automatically at set intervals or based on triggers.
+Data Ingestion: Importing data from various sources into storage systems.
+APIs: Interfaces enabling programmatic data access or updates between software systems.
+Message Queues: Systems that manage asynchronous communication and buffering between processes.
+Big Data Tools: Technologies such as Hadoop, Spark, Kafka for processing, storing, and moving large-scale data.
+Workflow Monitoring: Tracking the state, performance, and failures of data pipelines and tasks.

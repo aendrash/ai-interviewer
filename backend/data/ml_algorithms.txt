@@ -1,0 +1,43 @@
+Linear Regression: Predicts a continuous output variable based on the relationship between input features and their weights.
+Logistic Regression: Predicts the probability of a binary outcome using a logistic function.
+Decision Trees: Tree-structured models making decisions based on feature splits to classify or regress.
+Random Forests: An ensemble of decision trees that improves accuracy and reduces overfitting through aggregation.
+Gradient Boosting Machines: Sequentially builds trees that correct errors of previous trees for high predictive performance.
+AdaBoost: Adjusts the weights of misclassified points and combines weak learners to create a strong classifier.
+XGBoost: An optimized and scalable gradient boosting library, widely used for structured/tabular data problems.
+LightGBM: A fast, distributed gradient boosting framework using tree-based learning, well-suited for large datasets.
+CatBoost: A gradient boosting algorithm that handles categorical features natively and efficiently.
+Support Vector Machines: Finds the optimal hyperplane to separate different classes in the feature space.
+Naive Bayes: Probabilistic classifiers based on Bayes’ theorem assuming independence among features.
+K-Nearest Neighbors: Predicts an instance’s label by majority vote among its k closest neighbors.
+K-Means Clustering: Groups data into k clusters based on feature similarity and minimizes in-cluster variance.
+Hierarchical Clustering: Builds a multilevel hierarchy of clusters using either agglomerative or divisive approaches.
+DBSCAN: Density-based clustering that can find arbitrarily shaped clusters and identify outliers.
+Gaussian Mixture Models: Probabilistic model representing the distribution of data with a mixture of Gaussians.
+Principal Component Analysis: Reduces dimensionality by projecting data onto directions of maximum variance.
+Factor Analysis: Identifies underlying latent factors that explain observed data patterns.
+Independent Component Analysis: Separates mixed signals into statistically independent components.
+t-SNE: Reduces dimensionality for visualization, preserving local similarities among points.
+Linear Discriminant Analysis: Projects data to maximize class separability and reduce dimensionality.
+Ridge Regression: Linear regression with L2 penalty to shrink coefficients and prevent overfitting.
+Lasso Regression: Linear regression with L1 penalty, promoting sparsity and feature selection.
+Elastic Net: Combines L1 and L2 penalties for regression with both shrinkage and sparsity.
+Polynomial Regression: Fits a non-linear relationship between dependent and independent variables by using polynomial terms.
+Time Series ARIMA: Models univariate time series data using autoregression and moving averages.
+Hidden Markov Models: Probabilistic models for sequence data with hidden (latent) states.
+Isolation Forest: Anomaly detection algorithm that isolates observations using random splits.
+One Class SVM: SVM variant designed for identifying outliers in unlabelled data.
+Quadratic Discriminant Analysis: Like LDA, but allows for different covariance matrices per class.
+Multinomial Logistic Regression: Generalizes logistic regression to handle more than two classes (multiclass classification).
+Bayesian Regression: Regression models that estimate distributions over parameters using Bayes’ theorem.
+Markov Decision Processes: Framework for modeling sequential decision-making with states, actions, and rewards.
+Perceptron: Basic linear binary classifier and the foundation of neural networks.
+Stacking: Ensemble technique combining predictions from multiple models using a meta-model.
+Bagging: Reduces variance by averaging predictions from multiple base models trained on different data subsets.
+Voting Classifier: Combines predictions from multiple models by majority or weighted voting.
+Passive Aggressive Classifier: Online-learning algorithm that adjusts quickly to misclassified samples.
+Mini-Batch K-Means: A faster, approximate version of k-means using subsets of data at each iteration.
+Mean Shift Clustering: Clustering method that shifts data points to mode regions iteratively.
+Affinity Propagation: Finds exemplars within data for clustering without needing to know the number of clusters.
+Spectral Clustering: Uses graph theory and the eigen spectrum of similarity matrices for clustering.
+Nearest Centroid Classifier: Classifies based on which class centroid a point is closest to.

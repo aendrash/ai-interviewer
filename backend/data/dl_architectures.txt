@@ -1,0 +1,20 @@
+Feedforward Neural Network: Layers of neurons where signals move only forward from input to output.
+Convolutional Neural Network (CNN): Uses convolutional layers for feature extraction from grid-like data, such as images.
+Residual Network (ResNet): Deep CNNs with shortcut connections to enable very deep learning models.
+Recurrent Neural Network (RNN): Processes sequences by maintaining a hidden state over time steps.
+Long Short-Term Memory (LSTM): RNN variant designed to remember long-term dependencies with gating mechanisms.
+Gated Recurrent Unit (GRU): Simplified LSTM with reduced computational complexity, effective for sequence data.
+Transformer: Neural model with self-attention mechanisms allowing parallel sequence processing.
+Encoder-Decoder: Architecture that encodes input to a fixed state and then decodes to output, common in sequence tasks.
+Autoencoder: Learns compressed representations by reconstructing inputs through an encoder and decoder.
+Variational Autoencoder (VAE): Autoencoder that learns probabilistic latent representations for generative modeling.
+Generative Adversarial Network (GAN): Pair of networks—a generator and a discriminator—trained in competition to create realistic synthetic data.
+Bidirectional RNN / LSTM: Processes input sequences in both forward and backward directions for full context.
+Attention Mechanism: Enables the model to focus on relevant parts of the input when producing each output element.
+Siamese Network: Uses two subnetworks with shared weights, mainly for similarity comparison tasks.
+U-Net: CNN architecture for image segmentation, with symmetric downsampling and upsampling paths and skip connections.
+Capsule Network: Preserves spatial hierarchies via clusters of neurons known as capsules.
+Graph Neural Network (GNN): Learns from data structured as graphs with nodes and edges.
+BERT: Transformer-based model bidirectionally trained for language understanding.
+GPT: Transformer-based model trained for text generation and completion tasks.
+Wide & Deep Networks: Combine linear and deep models to capture both memorization and generalization patterns.
